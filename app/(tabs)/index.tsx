@@ -7,7 +7,6 @@ export default function Index() {
       <Text style={styles.content}>Emulator ma run vayo.</Text>
       <Text>Emulator ma run vayo.</Text>
       <Text>hi</Text>
-      <Link href={"/about"}>Hello about</Link>
     </View>
   );
 }
